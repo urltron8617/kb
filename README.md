@@ -9,7 +9,7 @@ Something written here to be translated
 
 [Google2](https://www.google.com "zh {rel='noindex'}")
 
-[Link Text](https://www.example.com){:target="_blank"}
+[Link Text](https://www.example.com) {:target="_blank"}
 
 {% hint style="info" %}
 Test this&#x20;
