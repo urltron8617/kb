@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Create Page](README.md)
+* [Create New Page](README.md)
