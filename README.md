@@ -16,9 +16,7 @@ Something written here to be translated
 
 [Link Text](https://www.example.com) {:target="_blank"}
 
-{% hint style="info" %}
-Test this&#x20;
-{% endhint %}
+[Google](https://www.google.com){rel='noindex'}
 
 
 
