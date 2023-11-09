@@ -3,7 +3,7 @@
 Something written here to be translated
 
 
-[Google](https://www.google.com){:noindex}
+[Google](https://www.google.com)[:noindex]
 
 
 {% hint style="info" %}
