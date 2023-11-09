@@ -12,7 +12,7 @@ Something written here to be translated
 
 [Link text](https://www.example.com target="_blank")
 
-<http://www.example.com target="_blank">Link text</http>
+<http://www.example.com target="_blank">Link xxx</http>
 
 [Link Text](https://www.example.com) {:target="_blank"}
 
